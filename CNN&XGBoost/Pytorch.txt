@@ -1,3 +1,0 @@
-测试平台：RTX4060 Laptop 8G，CUDA version = 12.4
-Pytorch安装指令：
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
